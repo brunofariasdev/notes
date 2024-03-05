@@ -1,0 +1,184 @@
+{
+  "main": {
+    "id": "9e318ea498621a2b",
+    "type": "split",
+    "children": [
+      {
+        "id": "32d91bc1277ef5ef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "496e12a0da21af67",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "98967a00a22e76ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notas/Curso de Blazor.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cc356c03b6f530a9",
+    "type": "split",
+    "children": [
+      {
+        "id": "383bda8f308ea6de",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ca0e918044a36709",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "59e8550680dd20fb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bf54cf16aa9cc650",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 287.5
+  },
+  "right": {
+    "id": "c465aa01d43147a8",
+    "type": "split",
+    "children": [
+      {
+        "id": "e6e46f1f29a2614f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a73884a1b39803ec",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ea48903cabdc0b08",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9936f529e6d1afb1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9848a817ab6a3835",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "d2f7407a9dd1a350",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "zk-prefixer:Criar nova nota única": false,
+      "obsidian-spaced-repetition:Revisar flashcards": false
+    }
+  },
+  "active": "496e12a0da21af67",
+  "lastOpenFiles": [
+    "Notas/Curso de Blazor.md",
+    "Notas/DOT NET.md",
+    "Notas/Ferramentas .Net.md",
+    "Notas/Templates Blazor.md",
+    "Notas/SPA - Single Page Application.md",
+    "Notas/SSG - Static Site Generation.md",
+    "Notas/Web Assembly.md",
+    "Notas/SSR - Server Site Generation.md",
+    "Notas/Pasted image 20240305154758.png",
+    "Notas/Pattern.md",
+    "Notas/Clean Architecture.md",
+    "Notas/Revisões.md",
+    "Notas/EntityFramework Core.md",
+    "Sem título 1",
+    "Notas",
+    "Welcome.md",
+    "create a link.md"
+  ]
+}

@@ -1,0 +1,2 @@
+
+O Web Assembly permite a execução de bits code direto no navegador conseguindo assim um desempenho quase que nativo de uma aplicação web, como se ela estive instalado no computador onde está sendo executada, não sendo necessário dispensar o Javascript da pagina mas sendo possível ser utilizado em conjunto com alguma linguagem de baixo nível como o C#,C++ etc. Sendo assim possível que aplicativos como Notion, Figma, Constructor sejam executados direto no navegador tento apenas um loading em sua primeira execução de uma aplicação Web Assembly. 
