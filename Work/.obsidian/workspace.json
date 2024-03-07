@@ -4,24 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "32d91bc1277ef5ef",
+        "id": "952c1b81d69fd812",
         "type": "tabs",
         "children": [
           {
-            "id": "496e12a0da21af67",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "98967a00a22e76ea",
+            "id": "a13ac3696781b230",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas/Curso de Blazor.md",
+                "file": "Notas/Blazor.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notas/Blazor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notas/Blazor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notas/Blazor.md"
+              }
             }
           },
           {
@@ -161,20 +157,27 @@
       "obsidian-spaced-repetition:Revisar flashcards": false
     }
   },
-  "active": "496e12a0da21af67",
+  "active": "a13ac3696781b230",
   "lastOpenFiles": [
-    "Notas/Curso de Blazor.md",
+    "Notas/Blazor.md",
+    "Notas/Templates Blazor.md",
+    "Notas/Pattern.md",
+    "Notas/Render Modes.md",
+    "Blazor Hybrid.md",
+    "[[DOT.md",
+    "Notas/Stream Rendering.md",
+    "Notas/SPA - Single Page Application.md",
+    "Notas/Revisões.md",
+    "www.google.com.md",
+    "Caminha da Limpeza.md",
+    "[[Blazor]].md",
     "Notas/DOT NET.md",
     "Notas/Ferramentas .Net.md",
-    "Notas/Templates Blazor.md",
-    "Notas/SPA - Single Page Application.md",
     "Notas/SSG - Static Site Generation.md",
     "Notas/Web Assembly.md",
     "Notas/SSR - Server Site Generation.md",
     "Notas/Pasted image 20240305154758.png",
-    "Notas/Pattern.md",
     "Notas/Clean Architecture.md",
-    "Notas/Revisões.md",
     "Notas/EntityFramework Core.md",
     "Sem título 1",
     "Notas",
